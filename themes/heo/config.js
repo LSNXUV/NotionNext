@@ -6,8 +6,9 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: 'Welcome My 埠洛格', url: '/' },
-    { title: '世人无法理解的飞舞', url: '/' },
-    { title: '世人无法理解的飞舞', url: '/' }
+    { title: '我乃世人无法理解之飞舞', url: '/' },
+    { title: '缺仍怀自由之心协bike', url: '/' },
+    { title: '《广告位。。。。。》', url: '/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
