@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'Share life',
   HEO_HERO_TITLE_3: 'chat.openai.com',
   HEO_HERO_TITLE_4: '船欣版本发布',
-  HEO_HERO_TITLE_5: 'NextJS 14.2 - 更好的Turbopack(99.8%)',
+  HEO_HERO_TITLE_5: 'NextJS 15.3 - Turbopack更快的生产构建 (99%)',
   HEO_HERO_TITLE_LINK: 'https://nextjs.org',
 
   // 英雄区显示三个置顶分类
